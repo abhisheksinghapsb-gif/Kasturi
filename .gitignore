@@ -1,3 +1,11 @@
+# Large Archives & Datasets
+*.zip
+*.tar.gz
+*.tar
+*.rar
+*.7z
+archive/
+
 # MATLAB files
 *.asv
 *.m~
